@@ -12,13 +12,12 @@ import org.dreambot.api.wrappers.widgets.message.Message;
 
 import java.awt.*;
 
-/*
-
-Levels fishing from level 1-20 in the lumbridge swamp fishing area.
-Author: javabrotato
 
 
-/*
+//Levels fishing from level 1-20 in the lumbridge swamp fishing area.
+//Author: javabrotato
+
+
 
 
 @ScriptManifest(name = "Shrimp/Chovy Fisher", description = "Gets level required for fly fishing", author = "Brotato",
