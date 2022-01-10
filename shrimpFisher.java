@@ -18,7 +18,7 @@ Levels fishing from level 1-20 in the lumbridge swamp fishing area.
 Author: javabrotato
 
 
-/(
+/*
 
 
 @ScriptManifest(name = "Shrimp/Chovy Fisher", description = "Gets level required for fly fishing", author = "Brotato",
